@@ -1,0 +1,2037 @@
+/*---------------- for small mobile device-------------- */
+@media (min-width: 320px) and (max-width: 576px) {
+
+    /* ======================desktop 1 responsive start====================== */
+.container{
+    max-width: 100% !important;
+}
+
+    #home-header .head {
+        padding: 20px 0px;
+        width: 100%;
+
+
+    }
+
+    #home-header .head .left img {
+        width: 100%;
+        height: 30px;
+
+    }
+
+    /* #home-header .head .right {
+        display: none;
+    } */
+    #home-header .head .right {
+        text-align: center;
+    }
+    #home-header .head .right a {
+       
+        padding: 9px 25px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+
+    .sticky .head {
+        padding: 20px 0px !important;
+
+    }
+
+    /*==== banner1 start=== */
+    #home-banner .banner-all-content {
+
+        top: 115px;
+
+
+    }
+
+    #home-banner .banner-all-content .left img {
+        margin-left: -46px;
+        width: 360px;
+    }
+
+    #home-banner .overlay .trans-logo {
+        margin-left: 28px;
+        margin-top: 102px;
+        width: 265px;
+    }
+
+    #home-banner .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #home-banner .banner-all-content .left h2 span {
+        font-size: 30px;
+
+    }
+
+    #home-banner .banner-all-content .right h1 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: 30px;
+    }
+
+    #home-banner .banner-all-content .right {
+        padding-left: 0px;
+    }
+
+    #home-banner .banner-all-content .right h2 {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    #home-banner .banner-all-content .right p {
+        width: 295px;
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+        bottom: -82px;
+    }
+
+    #home-banner .banner-all-content .box h6 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+    }
+
+    #home-banner .banner-all-content .box::after {
+        top: 21px;
+        height: 50px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+    }
+    #home-form h4 {
+     
+        font-size: 32px;
+       
+    }
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+        margin-top: 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: center;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+    }
+
+    /*==== form end=== */
+    /*==== section3 start=== */
+    #section3 {
+        height: 680px;
+    }
+
+    #section3 .sec-3-content {
+        top: 35px;
+
+    }
+
+    #section3 .details {
+        padding-left: 0px;
+        height: 600px;
+    }
+
+    #section3 .details h4 {
+        width: 100%;
+        font-size: 34px;
+    }
+
+    #section3 .details p {
+        margin-top: 35px;
+        font-size: 20px;
+        width: 100%;
+    }
+
+    #section3 .details ul {
+        margin-top: 45px;
+        margin-left: 18px;
+    }
+
+    #section3 .details ul li {
+        font-size: 18px;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    #section3 .details a {
+
+        width: 159px;
+        padding: 10px 33px;
+    }
+
+    /*==== section3 end=== */
+
+
+    /*==== concept start=== */
+
+    #concept {
+        height: 850px;
+        padding-top: 60px;
+    }
+
+    #concept .details {
+        height: 100%;
+        padding-top: 0px;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+
+
+    #concept .h2s2 {
+        display: flex;
+        flex-direction: column-reverse !important;
+    }
+
+    #concept .details h4 {
+        font-size: 25px;
+        line-height: 27px;
+
+    }
+
+    #concept .details a {
+        display: inline-block;
+        width: 197px;
+        margin-top: 45px;
+    }
+
+    #concept .video-box .video {
+        width: 100%;
+        position: relative;
+        cursor: pointer;
+        margin-left: 0;
+    }
+
+    #concept .video-box {
+        height: 100%;
+
+    }
+
+    /*==== concept end=== */
+    /*==== footer start=== */
+    .rtr {
+        bottom: 0px;
+
+    }
+
+    .rtr .mid {
+        text-align: center;
+    }
+
+    .rtr .btn-footer {
+        text-align: center;
+    }
+
+    .rtr .btn-footer .ten {
+        margin-right: 0;
+    }
+
+    .rtr .address p {
+        margin-left: 0;
+    }
+
+    #footer .address {
+
+        padding: 0px;
+
+    }
+
+    #footer {
+        position: absolute;
+        bottom: -50px;
+
+
+    }
+
+    /*==== footer end=== */
+
+    /* ======================desktop 1 responsive end====================== */
+    /* ======================desktop 2 responsive start====================== */
+
+    /*==== banner1 start=== */
+    
+    #banner2 {
+        height: 950px;
+    }
+
+    #banner2 .banner-all-content {
+
+        top: 115px;
+
+
+    }
+
+    #banner2 .banner-all-content .left img {
+        margin-left: -46px;
+        width: 360px;
+    }
+
+    #banner2 .overlay .trans-logo {
+        margin-left: 28px;
+        margin-top: 102px;
+        width: 265px;
+    }
+
+    #banner2 .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #banner2 .banner-all-content .left h2 span {
+        font-size: 30px;
+
+    }
+
+    #banner2 .banner-all-content .right h1 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: 30px;
+    }
+
+    #banner2 .banner-all-content .right {
+        padding-left: 0px;
+    }
+
+    #banner2 .banner-all-content .right h2 {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    #banner2 .banner-all-content .right p {
+        width: 295px;
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+        bottom: -180px;
+    }
+
+    #banner2 .banner-all-content .box h6 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 12px;
+        width: 260px;
+    }
+
+    #banner2 .banner-all-content .box::after {
+        top: 21px;
+        height: 50px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== home2 section3 start=== */
+
+
+
+    #home2-section3 {
+        height: 560px;
+    }
+
+    #home2-section3 .details {
+        height: 100%;
+        margin-top: 35px;
+    }
+
+    #home2-section3 .details h4 {
+        font-size: 24px;
+        width: 250px;
+    }
+
+    #home2-section3 .details ul li {
+        font-size: 18px;
+        width: 287px;
+        margin: 5px;
+        margin-top: 10px;
+        list-style: disc;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul .sec3-2n {
+        width: 203px;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul .sec-3-3rd {
+        width: 122px;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul {
+        margin-top: 35px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #home2-section3 .details .btm {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm li {
+        font-size: 40px;
+        width: 100% !important;
+        list-style: none;
+        margin-left: 0;
+        line-height: 15px;
+    }
+
+    #home2-section3 .details .btm li span {
+        font-size: 12px;
+
+        margin-left: 0;
+    }
+
+    /*==== home2 section3 end=== */
+    /*==== home2 concept start=== */
+    /*==== home2 concept end=== */
+    .concept-id-2 {
+        padding-top: 80px !important;
+        height: 830px !important;
+    }
+
+    #concept .details2 {
+        margin-top: 50px;
+    }
+
+    #concept .details2 h4 {
+        width: 100%;
+    }
+
+    .rtr {
+
+
+        bottom: 0px;
+
+
+
+    }
+
+    .rtr .address {
+        text-align: center;
+    }
+
+    .rtr .mid {
+
+        padding: 10px 0px;
+
+    }
+
+    .rtr .btn {
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    /*==== home2 concept end=== */
+
+    /* ======================desktop 2 responsive end====================== */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------- for landscape mobile device-------------- */
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* ======================desktop 1 responsive start====================== */
+
+    .container{
+        max-width: 100% !important;
+    }
+
+    #home-header .head {
+        padding: 20px 0px;
+        width: 100%;
+
+
+    }
+
+    #home-header .head .left img {
+        width: 100%;
+        height: 30px;
+
+    }
+
+
+
+
+    .sticky .head {
+        padding: 20px 0px !important;
+
+    }
+
+    /*==== banner1 start=== */
+    #home-banner {
+        height: 680px;
+    }
+
+    #home-banner .banner-all-content {
+
+        top: 115px;
+
+
+    }
+
+    #home-banner .banner-all-content .left img {
+        margin-left: -46px;
+        width: 360px;
+    }
+
+    #home-banner .overlay .trans-logo {
+        margin-left: 28px;
+        margin-top: 102px;
+        width: 265px;
+    }
+
+    #home-banner .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #home-banner .banner-all-content .left h2 span {
+        font-size: 30px;
+
+    }
+
+    #home-banner .banner-all-content .right h1 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: -10px;
+    }
+
+    #home-banner .banner-all-content .right {
+        padding-left: 0px;
+    }
+
+    #home-banner .banner-all-content .right h2 {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    #home-banner .banner-all-content .right p {
+        width: 100%;
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+        bottom: 146px;
+    }
+
+    #home-banner .banner-all-content .box h6 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+        width: 125px;
+    }
+
+    #home-banner .banner-all-content .box .mar-1 {
+        width: 115px;
+    }
+
+    #home-banner .banner-all-content .box .mar-2 {
+        width: 125px;
+    }
+
+    #home-banner .banner-all-content .box::after {
+        top: 21px;
+        height: 170px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: center;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+
+    }
+
+
+
+    /*==== form end=== */
+    /*==== section3 start=== */
+    #section3 {
+        height: 650px;
+    }
+
+    #section3 .sec-3-content {
+        top: 35px;
+
+    }
+
+    #section3 .details {
+        padding-left: 40px;
+        height: 580px;
+    }
+
+    #section3 .details h4 {
+        width: 100%;
+        font-size: 40px;
+    }
+
+    #section3 .details p {
+        margin-top: 35px;
+        font-size: 24px;
+        width: 463px;
+    }
+
+    #section3 .details ul {
+        margin-top: 45px;
+        margin-left: 18px;
+    }
+
+    #section3 .details ul li {
+        font-size: 18px;
+        width: 350px;
+        margin-bottom: 10px;
+    }
+
+    #section3 .details a {
+
+        width: 159px;
+        padding: 10px 33px;
+    }
+
+    /*==== section3 end=== */
+
+
+    /*==== concept start=== */
+
+    #concept {
+        height: 930px;
+        padding-top: 60px;
+    }
+
+    #concept .details {
+        height: 100%;
+        padding-top: 0px;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+
+
+    #concept .h2s2 {
+        display: flex;
+        flex-direction: column-reverse !important;
+    }
+
+    #concept .details h4 {
+        font-size: 25px;
+        line-height: 27px;
+
+    }
+
+    #concept .details a {
+        display: inline-block;
+        width: 197px;
+        margin-top: 45px;
+
+    }
+
+    #concept .video-box .video {
+        width: 100%;
+        position: relative;
+        cursor: pointer;
+        margin-left: 0;
+    }
+
+    #concept .video-box {
+        height: 100%;
+
+    }
+
+    /*==== concept end=== */
+    /*==== footer start=== */
+    .rtr {
+        bottom: 0px;
+
+    }
+
+    .rtr .mid {
+        text-align: center;
+    }
+
+    .rtr .btn-footer {
+        text-align: center;
+    }
+
+    .rtr .btn-footer .ten {
+        margin-right: 0;
+    }
+
+    .rtr .address p {
+        margin-left: 0;
+    }
+
+    #footer .address {
+
+        padding: 0px;
+
+    }
+
+    #footer {
+        position: absolute;
+        bottom: -50px;
+
+
+    }
+
+    /*==== footer end=== */
+
+    /* ======================desktop 1 responsive end====================== */
+    /* ======================desktop 2 responsive start====================== */
+
+    /*==== banner1 start=== */
+    #banner2 {
+        height: 740px;
+    }
+
+    #banner2 .banner-all-content {
+
+        top: 115px;
+
+
+    }
+
+    #banner2 .banner-all-content .left img {
+        margin-left: -46px;
+        width: 360px;
+    }
+
+    #banner2 .overlay .trans-logo {
+        margin-left: 28px;
+        margin-top: 102px;
+        width: 265px;
+    }
+
+    #banner2 .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #banner2 .banner-all-content .left h2 span {
+        font-size: 30px;
+
+    }
+
+    #banner2 .banner-all-content .right h1 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: -12px;
+    }
+
+    #banner2 .banner-all-content .right {
+        padding-left: 0px;
+    }
+
+    #banner2 .banner-all-content .right h2 {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    #banner2 .banner-all-content .right p {
+        width: 100%;
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+        bottom: 80px;
+    }
+
+    #banner2 .banner-all-content .box h6 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 12px;
+        width: 128px;
+    }
+
+    #banner2 .banner-all-content .box::after {
+        top: 21px;
+        height: 175px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== home2 section3 start=== */
+
+
+
+    #home2-section3 {
+        height: 470px;
+    }
+
+    #home2-section3 .details {
+        height: 100%;
+        margin-top: 35px;
+    }
+
+    #home2-section3 .details h4 {
+        font-size: 24px;
+        width: 250px;
+    }
+
+    #home2-section3 .details ul li {
+        font-size: 16px;
+        width: 145px;
+        margin: 5px;
+        margin-top: 10px;
+        list-style: none;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul .sec3-2n {
+        width: 145px;
+        margin-left: 30px;
+    }
+
+    #home2-section3 .details ul .sec-3-3rd {
+        width: 101px;
+        margin-left: 36px;
+    }
+
+    #home2-section3 .details ul {
+        margin-top: 35px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm li {
+        font-size: 48px;
+        width: 100% !important;
+        list-style: none;
+        margin-left: 5px;
+    }
+
+    #home2-section3 .details .btm li span {
+        font-size: 12px;
+
+        margin-left: 0;
+    }
+
+    /*==== home2 section3 end=== */
+    /*==== home2 concept start=== */
+    /*==== home2 concept end=== */
+    .concept-id-2 {
+        padding-top: 80px !important;
+        height: 830px !important;
+    }
+
+    #concept .details2 {
+        margin-top: 50px;
+    }
+
+    #concept .details2 h4 {
+        width: 100%;
+    }
+
+    .rtr {
+
+
+        bottom: 0px;
+
+
+
+    }
+
+    .rtr .address {
+        text-align: center;
+    }
+
+    .rtr .mid {
+
+        padding: 10px 0px;
+
+    }
+
+    .rtr .btn {
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    /*==== home2 concept end=== */
+
+    /* ======================desktop 2 responsive end====================== */
+
+
+
+
+
+
+}
+
+/*---------------- for tablets  device-------------- */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* ======================desktop 1 responsive start====================== */
+    .container{
+        max-width: 100% !important;
+    }
+
+    #home-header .head {
+        padding: 20px 0px;
+        width: 100%;
+
+
+    }
+
+    #home-header .head .left img {
+        width: 100%;
+        height: 30px;
+
+    }
+
+
+
+
+    .sticky .head {
+        padding: 20px 0px !important;
+
+    }
+
+    /*==== banner1 start=== */
+    #home-banner {
+        height: 780px;
+    }
+
+    #home-banner .banner-all-content {
+        top: 140px;
+    }
+
+    #home-banner .banner-all-content .left img {
+        margin-left: -54px;
+        width: 455px;
+    }
+
+    #home-banner .overlay .trans-logo {
+        margin-left: 35px;
+        margin-top: 122px;
+        width: 335px;
+    }
+
+    #home-banner .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #home-banner .banner-all-content .left h2 span {
+        font-size: 48px;
+    }
+
+    #home-banner .banner-all-content .right h1 {
+        font-size: 52px;
+        line-height: 54px;
+        margin-top: -11px;
+    }
+
+    #home-banner .banner-all-content .right {
+        padding-left: 80px;
+    }
+
+    #home-banner .banner-all-content .right h2 {
+        margin-top: 56px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #home-banner .banner-all-content .right p {
+        width: 100%;
+        margin-top: 20px;
+        font-size: 15px;
+        text-align: left;
+        line-height: 22px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+        bottom: 65px;
+    }
+
+    #home-banner .banner-all-content .box h6 {
+        font-size: 24px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+        width: 237px;
+    }
+
+    #home-banner .banner-all-content .box .mar-1 {
+        width: 174px;
+    }
+
+    #home-banner .banner-all-content .box .mar-2 {
+        width: 240px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+
+
+        left: 40px;
+    }
+
+    #home-banner .banner-all-content .box::after {
+        top: 21px;
+        height: 140px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: left;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+
+    }
+
+
+
+    /*==== form end=== */
+    /*==== section3 start=== */
+    #section3 {
+        height: 650px;
+    }
+
+    #section3 .sec-3-content {
+        top: 35px;
+
+    }
+
+    #section3 .details {
+        padding-left: 0;
+        height: 580px;
+    }
+
+    #section3 .details h4 {
+        width: 100%;
+        font-size: 40px;
+    }
+
+    #section3 .details p {
+        margin-top: 35px;
+        font-size: 24px;
+        width: 463px;
+    }
+
+    #section3 .details ul {
+        margin-top: 45px;
+        margin-left: 18px;
+    }
+
+    #section3 .details ul li {
+        font-size: 18px;
+        width: 350px;
+        margin-bottom: 10px;
+    }
+
+    #section3 .details a {
+
+        width: 159px;
+        padding: 10px 33px;
+    }
+
+    /*==== section3 end=== */
+
+
+    /*==== concept start=== */
+
+    #concept {
+        height: 590px;
+        padding-top: 100px;
+    }
+
+    #concept .details {
+        height: 100%;
+        padding-top: 0;
+        padding-left: 130px;
+        text-align: left;
+        margin-top: 20px;
+    }
+
+
+
+    #concept .h2s2 {
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    #concept .details h4 {
+        font-size: 25px;
+        line-height: 27px;
+
+    }
+
+    #concept .details a {
+        display: inline-block;
+        width: 197px;
+        margin-top: 30px;
+    }
+
+    #concept .video-box .video {
+        width: 100%;
+        position: relative;
+        cursor: pointer;
+        margin-left: 60px;
+    }
+
+    #concept .video-box {
+        height: 100%;
+
+    }
+
+    /*==== concept end=== */
+    /*==== footer start=== */
+    .rtr {
+        bottom: 0px;
+
+    }
+
+    .rtr .mid {
+        text-align: center;
+    }
+
+    .rtr .btn-footer {
+        text-align: center;
+    }
+
+    .rtr .btn-footer .ten {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .rtr .address p {
+        margin-left: 0;
+    }
+
+    #footer .address {
+
+        padding: 0px;
+
+    }
+
+    #footer {
+        position: absolute;
+        bottom: -50px;
+
+
+    }
+
+    /*==== footer end=== */
+
+    /* ======================desktop 1 responsive end====================== */
+    /* ======================desktop 2 responsive start====================== */
+
+
+
+    #banner2 {
+        height: 924px;
+    }
+
+    #banner2 .banner-all-content {
+        top: 140px;
+    }
+
+    #banner2 .banner-all-content .left img {
+        margin-left: -54px;
+        width: 455px;
+    }
+
+    #banner2 .overlay .trans-logo {
+        margin-left: 35px;
+        margin-top: 122px;
+        width: 335px;
+    }
+
+    #banner2 .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #banner2 .banner-all-content .left h2 span {
+        font-size: 48px;
+    }
+
+    #banner2 .banner-all-content .right h1 {
+        font-size: 52px;
+        line-height: 54px;
+        margin-top: -11px;
+    }
+
+    #banner2 .banner-all-content .right {
+        padding-left: 80px;
+    }
+
+    #banner2 .banner-all-content .right h2 {
+        margin-top: 56px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #banner2 .banner-all-content .right p {
+        width: 370px;
+        margin-top: 20px;
+        font-size: 17px;
+        text-align: left;
+        line-height: 22px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+        bottom: -102px;
+    }
+
+    #banner2 .banner-all-content .box h6 {
+        font-size: 24px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+        width: 195px;
+    }
+
+    #banner2 .banner-all-content .box .mar-1 {
+        width: 174px;
+    }
+
+    #banner2 .banner-all-content .box .mar-2 {
+        width: 240px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+
+
+        left: 40px;
+    }
+
+    #banner2 .banner-all-content .box::after {
+        top: 21px;
+        height: 140px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: left;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+
+    }
+
+
+
+
+    /*==== banner1 end=== */
+    /*==== home2 section3 start=== */
+
+
+
+    #home2-section3 {
+        height: 470px;
+    }
+
+    #home2-section3 .details {
+        height: 100%;
+        margin-top: 35px;
+    }
+
+    #home2-section3 .details h4 {
+        font-size: 32px;
+        width: 318px;
+    }
+
+    #home2-section3 .details ul li {
+        font-size: 20px;
+        width: 180px;
+        margin: 5px;
+        margin-top: 10px;
+        list-style: none;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul .sec3-2n {
+        width: 175px;
+        margin-left: 30px;
+    }
+
+    #home2-section3 .details ul .sec-3-3rd {
+        width: 101px;
+        margin-left: 55px;
+    }
+
+    #home2-section3 .details ul {
+        margin-top: 35px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm li {
+        font-size: 48px;
+        width: 215px;
+        list-style: none;
+        margin-left: 5px;
+    }
+
+    #home2-section3 .details .btm li span {
+        font-size: 12px;
+
+        margin-left: 0;
+    }
+
+    /*==== home2 section3 end=== */
+    /*==== home2 concept start=== */
+    /*==== home2 concept end=== */
+    .concept-id-2 {
+        padding-top: 80px !important;
+        height: 525px !important;
+    }
+
+    #concept .details2 {
+        margin-top: 6px;
+        padding-left: 80px;
+    }
+
+    #concept .details2 h4 {
+        width: 100%;
+        font-size: 32px;
+        line-height: 37px;
+    }
+
+    .rtr {
+
+
+        bottom: 0px;
+
+
+
+    }
+
+    .rtr .address {
+        text-align: center;
+    }
+
+    .rtr .mid {
+        padding: 32px 0px;
+    }
+
+    .rtr .btn {
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    /*==== home2 concept end=== */
+
+    /* ======================desktop 2 responsive end====================== */
+
+
+
+
+
+}
+
+/*---------------- for laptop  device-------------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .container{
+        max-width: 100% !important;
+    }
+
+    #home-header .head {
+        padding: 20px 0px;
+        width: 100%;
+
+
+    }
+
+    #home-header .head .left img {
+        width: 100%;
+        height: 30px;
+
+    }
+
+
+
+
+    .sticky .head {
+        padding: 20px 0px !important;
+
+    }
+
+    /*==== banner1 start=== */
+    #home-banner {
+        height: 700px;
+    }
+
+    #home-banner .banner-all-content {
+        top: 140px;
+    }
+
+    #home-banner .banner-all-content .left img {
+        margin-left: -54px;
+        width: 455px;
+    }
+
+    #home-banner .overlay .trans-logo {
+        margin-left: 35px;
+        margin-top: 122px;
+        width: 335px;
+    }
+
+    #home-banner .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #home-banner .banner-all-content .left h2 span {
+        font-size: 48px;
+    }
+
+    #home-banner .banner-all-content .right h1 {
+        font-size: 52px;
+        line-height: 54px;
+        margin-top: -11px;
+    }
+
+    #home-banner .banner-all-content .right {
+        padding-left: 80px;
+    }
+
+    #home-banner .banner-all-content .right h2 {
+        margin-top: 56px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #home-banner .banner-all-content .right p {
+        width: 370px;
+        margin-top: 20px;
+        font-size: 17px;
+        text-align: left;
+        line-height: 22px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+        bottom: 146px;
+    }
+
+    #home-banner .banner-all-content .box h6 {
+        font-size: 24px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+        width: 260px;
+    }
+
+    #home-banner .banner-all-content .box .mar-1 {
+        width: 174px;
+    }
+
+    #home-banner .banner-all-content .box .mar-2 {
+        width: 240px;
+    }
+
+    #home-banner .banner-all-content .bottom {
+
+
+        left: 40px;
+    }
+
+    #home-banner .banner-all-content .box::after {
+        top: 21px;
+        height: 140px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: left;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+
+    }
+
+
+
+    /*==== form end=== */
+    /*==== section3 start=== */
+    #section3 {
+        height: 650px;
+    }
+
+    #section3 .sec-3-content {
+        top: 35px;
+
+    }
+
+    #section3 .details {
+        padding-left: 40px;
+        height: 580px;
+    }
+
+    #section3 .details h4 {
+        width: 100%;
+        font-size: 40px;
+    }
+
+    #section3 .details p {
+        margin-top: 35px;
+        font-size: 24px;
+        width: 463px;
+    }
+
+    #section3 .details ul {
+        margin-top: 45px;
+        margin-left: 18px;
+    }
+
+    #section3 .details ul li {
+        font-size: 18px;
+        width: 350px;
+        margin-bottom: 10px;
+    }
+
+    #section3 .details a {
+
+        width: 159px;
+        padding: 10px 33px;
+    }
+
+    /*==== section3 end=== */
+
+
+    /*==== concept start=== */
+
+    #concept {
+        height: 590px;
+        padding-top: 100px;
+    }
+
+    #concept .details {
+        height: 100%;
+        padding-top: 0;
+        padding-left: 150px;
+        text-align: left;
+        margin-top: 20px;
+    }
+
+
+
+    #concept .h2s2 {
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    #concept .details h4 {
+        font-size: 25px;
+        line-height: 27px;
+
+    }
+
+    #concept .details a {
+        display: inline-block;
+        width: 197px;
+        margin-top: 30px;
+    }
+
+    #concept .video-box .video {
+        width: 100%;
+        position: relative;
+        cursor: pointer;
+        margin-left: 80px;
+    }
+
+    #concept .video-box {
+        height: 100%;
+
+    }
+
+    /*==== concept end=== */
+    /*==== footer start=== */
+    .rtr {
+        bottom: 0px;
+
+    }
+
+    .rtr .mid {
+        text-align: center;
+    }
+
+    .rtr .btn-footer {
+        text-align: center;
+    }
+
+    .rtr .btn-footer .ten {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .rtr .address p {
+        margin-left: 0;
+    }
+
+    #footer .address {
+
+        padding: 0px;
+
+    }
+
+    #footer {
+        position: absolute;
+        bottom: -50px;
+
+
+    }
+
+    /*==== footer end=== */
+
+    /* ======================desktop 1 responsive end====================== */
+    /* ======================desktop 2 responsive start====================== */
+
+
+
+    #banner2 {
+        height: 800px;
+    }
+
+    #banner2 .banner-all-content {
+        top: 140px;
+    }
+
+    #banner2 .banner-all-content .left img {
+        margin-left: -54px;
+        width: 455px;
+    }
+
+    #banner2 .overlay .trans-logo {
+        margin-left: 35px;
+        margin-top: 122px;
+        width: 335px;
+    }
+
+    #banner2 .banner-all-content .left h2 {
+        margin-top: 15px;
+        font-size: 30px;
+    }
+
+    #banner2 .banner-all-content .left h2 span {
+        font-size: 48px;
+    }
+
+    #banner2 .banner-all-content .right h1 {
+        font-size: 52px;
+        line-height: 54px;
+        margin-top: -11px;
+    }
+
+    #banner2 .banner-all-content .right {
+        padding-left: 80px;
+    }
+
+    #banner2 .banner-all-content .right h2 {
+        margin-top: 56px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #banner2 .banner-all-content .right p {
+        width: 370px;
+        margin-top: 20px;
+        font-size: 17px;
+        text-align: left;
+        line-height: 22px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+        bottom: 45px;
+    }
+
+    #banner2 .banner-all-content .box h6 {
+        font-size: 24px;
+        line-height: 24px;
+        margin-left: 20px;
+        margin-top: 24px;
+        width: 260px;
+    }
+
+    #banner2 .banner-all-content .box .mar-1 {
+        width: 174px;
+    }
+
+    #banner2 .banner-all-content .box .mar-2 {
+        width: 240px;
+    }
+
+    #banner2 .banner-all-content .bottom {
+
+
+        left: 40px;
+    }
+
+    #banner2 .banner-all-content .box::after {
+        top: 21px;
+        height: 140px;
+    }
+
+    /*==== banner1 end=== */
+    /*==== form start=== */
+
+    #home-form {
+
+        padding: 50px 0px;
+    }
+
+    #home-form .text {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    #home-form form label {
+        margin-top: 20px;
+    }
+
+    #home-form form input {
+        width: 100%;
+        padding: 5px 10px;
+    }
+
+    #home-form #comments {
+        width: 100%;
+    }
+
+    #home-form .form-bt {
+        text-align: left;
+    }
+
+    #home-form a {
+        display: inline-block !important;
+        width: 216px;
+        margin-top: 30px;
+
+    }
+
+
+
+
+    /*==== banner1 end=== */
+    /*==== home2 section3 start=== */
+
+
+
+    #home2-section3 {
+        height: 470px;
+    }
+
+    #home2-section3 .details {
+        height: 100%;
+        margin-top: 35px;
+    }
+
+    #home2-section3 .details h4 {
+        font-size: 32px;
+        width: 318px;
+    }
+
+    #home2-section3 .details ul li {
+        font-size: 20px;
+        width: 180px;
+        margin: 5px;
+        margin-top: 10px;
+        list-style: none;
+        margin-left: 10px;
+    }
+
+    #home2-section3 .details ul .sec3-2n {
+        width: 175px;
+        margin-left: 30px;
+    }
+
+    #home2-section3 .details ul .sec-3-3rd {
+        width: 101px;
+        margin-left: 55px;
+    }
+
+    #home2-section3 .details ul {
+        margin-top: 35px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #home2-section3 .details .btm li {
+        font-size: 48px;
+        width: 215px;
+        list-style: none;
+        margin-left: 5px;
+    }
+
+    #home2-section3 .details .btm li span {
+        font-size: 12px;
+
+        margin-left: 0;
+    }
+
+    /*==== home2 section3 end=== */
+    /*==== home2 concept start=== */
+    /*==== home2 concept end=== */
+    .concept-id-2 {
+        padding-top: 80px !important;
+        height: 525px !important;
+    }
+
+    #concept .details2 {
+        margin-top: 6px;
+        padding-left: 80px;
+    }
+
+    #concept .details2 h4 {
+        width: 100%;
+        font-size: 32px;
+        line-height: 37px;
+    }
+
+    .rtr {
+
+
+        bottom: 0px;
+
+
+
+    }
+
+    .rtr .address {
+        text-align: center;
+    }
+
+    .rtr .mid {
+        padding: 32px 0px;
+    }
+
+    .rtr .btn {
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    /*==== home2 concept end=== */
+
+    /* ======================desktop 2 responsive end====================== */
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
